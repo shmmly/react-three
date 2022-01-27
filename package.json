@@ -16,7 +16,7 @@
     "react-router-dom": "^5.0.1",
     "react-scripts": "3.0.1",
     "stats": "^1.0.0",
-    "three": "^0.105.2",
+    "three": "^0.137.0",
     "typescript": "3.5.1"
   },
   "scripts": {
